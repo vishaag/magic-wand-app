@@ -5,9 +5,9 @@ An App that sends out the accelerometer &amp; gyroscope values to any REST serve
 [Demo Video](https://youtu.be/U9QK4XHbvvk)
 
 <div align="center"> <img src="screenshots/1.png" 
-     style="float: left; margin-right: 0px; " />
+     style="float: left; margin-right: 0px; "></div>
 <div align="center"> <img src="screenshots/2.png" 
-     style="float: left; margin-right: 0px; " />
+     style="float: left; margin-right: 0px; "></div>
 
 
 
